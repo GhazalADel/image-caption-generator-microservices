@@ -1,4 +1,4 @@
-# PicCapGenerator — Cloud Computing HW1
+# PicCapGenerator
 **Amirkabir University of Technology | Fall 2024**  
 **Course: Fundamentals of Cloud Computing**
 
